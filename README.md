@@ -1,37 +1,32 @@
 🌤️ React Native Weather App
 
-A modern and polished Weather App built using React Native + Expo, featuring real-time weather data, Axios-powered API requests, Tailwind-style UI with twrnc, smooth animations, Heroicons, and debounced search for efficient API calls.
+A modern and polished Weather App built using React Native + Expo, featuring real-time weather updates, fast Axios-based API requests, beautiful UI built with twrnc (Tailwind), smooth Heroicons, and an optimized debounced search for better performance.
 
-This app demonstrates clean architecture, reusable components, and mobile-optimized UI suitable for both Android and iOS.
+The app demonstrates clean architecture, reusable components, and mobile-optimized UI suitable for both Android and iOS.
 
 🚀 Features
 
-🌦 Real-time weather data (temperature, conditions, wind, etc.)
+🌦 Real-time weather data (temperature, humidity, wind, condition icons, etc.)
 
-🔍 City search with debounce to avoid unnecessary API calls
+🔍 City search with debounce to prevent unnecessary API calls
 
-🎨 twrnc (Tailwind for RN) → clean, responsive UI
+🎨 twrnc (Tailwind for React Native) → clean, responsive, modern UI
 
-🖼️ Heroicons for beautiful icons
+🖼️ Heroicons for sleek weather & UI icons
 
-⚡ Axios for fast, reliable API requests
+⚡ Axios for fast and reliable API requests
 
-📱 Works on Expo Go, Android, and iOS
+📱 Works seamlessly on Expo Go, Android, and iOS
 
-🛡 SafeAreaView support for notch devices
+🛡 Built-in SafeAreaView support for notch devices
 
-🌎 Supports any global location
-
-
-
+🌍 Supports any global location
 
 📢 Important Notice About Weather APIs
-
-❗ WeatherAPI.com is NOT fully free
+❗ WeatherAPI.com is NOT completely free
 
 WeatherAPI provides only a 21-day free trial for most features.
-
-After that, you must switch to a paid plan.
+After that, the app will stop working unless you upgrade to a paid plan.
 
 ✔ Recommended: Open-Meteo (100% Free)
 
@@ -39,13 +34,9 @@ No API Key required
 
 Unlimited usage
 
-Perfect for learning & production apps
+Perfect for learning, personal projects, and even production
 
-This project supports either API, but defaults to Open-Meteo to avoid billing issues.
-
-
-
-
+This project is configured to use Open-Meteo by default to avoid billing issues.
 
 🛠 Tech Stack
 
@@ -57,11 +48,11 @@ twrnc — Tailwind-style styling
 
 Heroicons — outline & solid icons
 
-lodash.debounce — optimized search
+lodash.debounce — optimized search functionality
 
 react-native-safe-area-context
 
-React Navigation (native stack)
+React Navigation (Native Stack)
 
 
 🔧 API Setup
