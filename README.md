@@ -65,9 +65,9 @@ const url = `https://api.weatherapi.com/v1/current.json?key=${API_KEY}&q=${city}
 
 Here are the Snap of App
 ![1](https://github.com/user-attachments/assets/535c03f9-10ea-469f-a0a5-d6d7c5d1b888)
-![5](https://github.com/user-attachments/assets/6fe108a1-44f0-440c-b385-ca823759ef04)
-![4](https://github.com/user-attachments/assets/e38dbbed-c542-40a9-854c-8b86451623aa)
 ![3](https://github.com/user-attachments/assets/364d1771-7ee2-44c7-93ba-064b4c4ae2e1)
+![5](https://github.com/user-attachments/assets/6fa1dde2-d2cf-4de9-8ed2-a9d6968b7124)
+![4](https://github.com/user-attachments/assets/faef16ea-be4c-4d59-8c24-f5c254a7e34a)
 ![2](https://github.com/user-attachments/assets/d77e776b-ab1f-4c89-836b-f7d345ffde08)
 
 
