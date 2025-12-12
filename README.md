@@ -22,6 +22,9 @@ This app demonstrates clean architecture, reusable components, and mobile-optimi
 
 🌎 Supports any global location
 
+
+
+
 📢 Important Notice About Weather APIs
 
 ❗ WeatherAPI.com is NOT fully free
@@ -39,6 +42,10 @@ Unlimited usage
 Perfect for learning & production apps
 
 This project supports either API, but defaults to Open-Meteo to avoid billing issues.
+
+
+
+
 
 🛠 Tech Stack
 
