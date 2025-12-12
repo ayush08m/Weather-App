@@ -6,21 +6,17 @@ The app demonstrates clean architecture, reusable components, and mobile-optimiz
 
 🚀 Features
 
-🌦 Real-time weather data (temperature, humidity, wind, condition icons, etc.)
+| Feature                            | 
+| ---------------------------------- | 
+| 🌦 **Real-time Weather Data**      | 
+| 🔍 **Debounced City Search**       | 
+| 🎨 **Modern UI with twrnc**        |
+| 🖼 **Heroicons Integration**       | 
+| ⚡ **Fast API Requests with Axios** |
+| 🛡 **SafeAreaView Support**        | 
+| 📱 **Cross-Platform Support**      | 
+| 🌍 **Global Location Support**     | 
 
-🔍 City search with debounce to prevent unnecessary API calls
-
-🎨 twrnc (Tailwind for React Native) → clean, responsive, modern UI
-
-🖼️ Heroicons for sleek weather & UI icons
-
-⚡ Axios for fast and reliable API requests
-
-📱 Works seamlessly on Expo Go, Android, and iOS
-
-🛡 Built-in SafeAreaView support for notch devices
-
-🌍 Supports any global location
 
 📢 Important Notice About Weather APIs
 ❗ WeatherAPI.com is NOT completely free
@@ -40,19 +36,18 @@ This project is configured to use Open-Meteo by default to avoid billing issues.
 
 🛠 Tech Stack
 
-React Native (Expo)
+| Technology / Library                | Purpose                                         |
+| ----------------------------------- | ----------------------------------------------- |
+| **React Native (Expo)**             | Core framework for building the app.            |
+| **Axios**                           | Fast, promise-based HTTP requests.              |
+| **twrnc (Tailwind for RN)**         | Styling with Tailwind-like syntax.              |
+| **Heroicons**                       | Clean icons for UI and weather visuals.         |
+| **lodash.debounce**                 | Optimizes search input to reduce API calls.     |
+| **react-native-safe-area-context**  | Handles notches, safe zones, and layout safety. |
+| **React Navigation (Native Stack)** | Screen navigation & routing.                    |
+| **Open-Meteo / WeatherAPI**         | Weather data source (Open-Meteo recommended).   |
 
-Axios — API requests
 
-twrnc — Tailwind-style styling
-
-Heroicons — outline & solid icons
-
-lodash.debounce — optimized search functionality
-
-react-native-safe-area-context
-
-React Navigation (Native Stack)
 
 
 🔧 API Setup
